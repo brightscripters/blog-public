@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bright Scripters Blog</title>
-    <link>https://brightscripters.github.io/</link>
+    <link>https://brightscripters.github.io/public/</link>
     <description>Recent content on Bright Scripters Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; Bright Scripters 2023</copyright><atom:link href="https://brightscripters.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; Bright Scripters 2023</copyright><atom:link href="https://brightscripters.github.io/public/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
