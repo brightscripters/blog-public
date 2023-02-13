@@ -1,6 +1,4 @@
-blog-public repo.
-
-Root folder renamed to public.
+public repo.
 
 Added as submodule to the blog repo.
 
