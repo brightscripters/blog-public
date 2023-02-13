@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Bright Scripters Blog</title>
+    <link>https://brightscripters.github.io/public/posts/</link>
+    <description>Recent content in Posts on Bright Scripters Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Bright Scripters 2023</copyright>
+    <lastBuildDate>Sat, 11 Feb 2023 21:52:30 -0500</lastBuildDate><atom:link href="https://brightscripters.github.io/public/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome</title>
+      <link>https://brightscripters.github.io/public/posts/welcome/</link>
+      <pubDate>Sat, 11 Feb 2023 21:52:30 -0500</pubDate>
+      
+      <guid>https://brightscripters.github.io/public/posts/welcome/</guid>
+      <description>Welcome to the Bright Scripters Blog!</description>
+    </item>
+    
+  </channel>
+</rss>
